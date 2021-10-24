@@ -14,5 +14,8 @@ Listed in ABC order.
 
 As well as thank you to all of our current and future contributors.
 
+## Community Team
+A thank you to all of our community team members, you can find them on via Discord disguised in a blue name.
+
 ## License
 We're using GPL-3.0 license, which will be here in a few days.

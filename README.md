@@ -10,5 +10,5 @@ features:
   details: Placeholder.
 - title: Third
   details: Placeholder.
-footer: "© MSRebirth"
+footer: "© Team MSRebirth. Goldsource & Half-Life are trademarks of Valve Corporation."
 ---
