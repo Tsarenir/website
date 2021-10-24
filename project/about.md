@@ -5,7 +5,7 @@ Since this is an open source project, we appreciate any help we can get. Feel fr
 
 ## Core Team
 Listed in ABC order.
-| Name | Job |
+| Name | Role |
 | ---- | ------------ |
 | BerntA | FN Development and game development |
 | greatguys | Scripting |
@@ -15,7 +15,7 @@ Listed in ABC order.
 As well as thank you to all of our current and future contributors.
 
 ## Community Team
-A thank you to all of our community team members, you can find them on via Discord disguised in a blue name.
+A thank you to all of our community team members, you can find them on via Discord distinguished in a blue name or under the Mod Team category.
 
 ## License
-We're using GPL-3.0 license, which will be here in a few days.
+The code and scripts are licensed under GPL-3.0, which you can find the code [here](https://github.com/MSRevive).
