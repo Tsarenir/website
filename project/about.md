@@ -11,8 +11,8 @@ Listed in ABC order.
 | ---- | ------------ |
 | BerntA | Core Development |
 | greatguys | Core Scripting |
-| Oyster | Mapping & Map Reviewer|
-| Wishbone | Core Development & Project Director |
+| Oyster | Mapping & Map Reviewer |
+| Wishbone | Core Development & Project Operations |
 
 As well as thank you to all of our current and future contributors.
 
