@@ -59,7 +59,24 @@ module.exports = {
           title: 'Guides',
           collapsable: false,
           children: [
-            '/guides/installing.md',
+            '/guides/installing.md'
+          ]
+        },
+      ],
+      '/dev/': [
+        {
+          title: 'Scripts',
+          collapsable: false,
+          children: [
+            '/dev/scripts/intro.md',
+            '/dev/scripts/cmds.md'
+          ]
+        },
+        {
+          title: 'Programming',
+          collapsable: false,
+          children: [
+            '/dev/game/compile.md'
           ]
         },
       ],
