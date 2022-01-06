@@ -1,7 +1,7 @@
 module.exports = {
   base: '/',
   title: 'MSRebirth',
-  description: 'The rebirth of the Half-Life mod MSC.',
+  description: 'The rebirth of the Half-Life mod Master Sword Continued.',
 
   plugins: [
     ['@vuepress/search', {
@@ -45,6 +45,23 @@ module.exports = {
       },
     ],
     sidebar: {
+      '/dev/': [
+        {
+          title: 'Scripts',
+          collapsable: false,
+          children: [
+            '/dev/scripts/intro.md',
+            '/dev/scripts/cmds.md'
+          ]
+        },
+        {
+          title: 'Programming',
+          collapsable: false,
+          children: [
+            '/dev/game/compile.md'
+          ]
+        },
+      ],
       '/': [
         {
           title: 'Information',
@@ -60,23 +77,6 @@ module.exports = {
           collapsable: false,
           children: [
             '/guides/installing.md'
-          ]
-        },
-      ],
-      '/dev/': [
-        {
-          title: 'Scripts',
-          collapsable: false,
-          children: [
-            '/dev/scripts/intro.md',
-            '/dev/scripts/cmds.md'
-          ]
-        },
-        {
-          title: 'Programming',
-          collapsable: false,
-          children: [
-            '/dev/game/compile.md'
           ]
         },
       ],
