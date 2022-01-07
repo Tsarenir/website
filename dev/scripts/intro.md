@@ -5,7 +5,7 @@ We use our own scripting language for all of our scripts, while that may sound l
 
 ## Concepts
 Since the game is a multiplayer game you should a decent understanding of the two "realms" "realms" when it comes to games.\
-<Badge type="tip" text="server" vertical="middle" /> - Server side commands are commands that will only work on the actual game server not the client.\ 
+<Badge type="tip" text="server" vertical="middle" /> - Server side commands are commands that will only work on the actual game server not the client.\
 <Badge type="tip" text="client" vertical="middle" /> - Client side commands are commands that will only work on the specified client/player.
 
 ## Testing
