@@ -51,9 +51,9 @@ module.exports = {
           collapsable: false,
           children: [
             '/dev/scripts/intro.md',
-            '/dev/scripts/server-cmds.md',
-            '/dev/scripts/shared-cmds.md',
-            '/dev/scripts/client-cmds.md'
+            '/dev/scripts/server.md',
+            '/dev/scripts/shared.md',
+            '/dev/scripts/client.md'
           ]
         },
         {

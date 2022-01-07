@@ -1,4 +1,4 @@
-# Intro
+# Script Intro
 We use scripts for many gameplay aspects within the game, for example all of the NPCs are actually done using scripts. All of our scripts are open source of course, which can be found [here](https://github.com/MSRevive/MSCScripts).
 
 We use our own scripting language for all of our scripts, while that may sound like a lot of work the language is relatively simple to get a hang of.
