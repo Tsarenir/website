@@ -55,10 +55,11 @@ module.exports = {
           ]
         },
         {
-          title: 'Programming',
+          title: 'Game',
           collapsable: false,
           children: [
             '/dev/game/compile.md'
+            '/dev/game/mapping.md'
           ]
         },
       ],
