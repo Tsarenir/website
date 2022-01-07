@@ -15,14 +15,14 @@ Mappers are credited in their respective BSP's.
 | Crazy Monkey | Scripter | 200x - 20xx |
 | Evaan | Scripter | 200x - 20xx |
 | Jelly | Scripter | 200x - 20xx |
-| greatguys | Scripter | 20xx - 2015 |
+| greatguys | Scripter | 20xx - 2020 |
 | Drigien | Programming | 200x - 20xx |
 | HobbitG | Programming | 200x - 20xx |
 | Shurik3n | Programming & Scripting | 200x - 20xx |
 
 ### Modeling
-| Name | Role | Years |
-| ---- | ----- |
+| Name | Years |
+| ---- | ------------ |
 | Con Artist | 200x - 200x |
 | FUCHEN | 200x - 200x |
 | Gaz | 200x - 200x |
@@ -51,7 +51,7 @@ Mappers are credited in their respective BSP's.
 
 ### Sound & Music
 | Name | Years |
-| ---- | ----- |
+| ---- | ------------ |
 | Lanethan | 200x - 200x |
 | Poof & BShaman | 200x - 200x |
 | Roggan | 200x - 200x |
@@ -62,4 +62,4 @@ Mappers are credited in their respective BSP's.
 | VSorrow | 200x - 200x |
 | The Chaste | 200x - 200x |
 | Thraxis | 200x - 200x |
-| Oyster | 200x - 2015 |
+| Oyster | 200x - 2020 |
