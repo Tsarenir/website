@@ -60,7 +60,7 @@ module.exports = {
           title: 'Game',
           collapsable: false,
           children: [
-            '/dev/game/compile.md',
+            '/dev/game/game_code.md',
             '/dev/game/mapping.md'
           ]
         },
