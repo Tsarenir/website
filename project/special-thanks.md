@@ -34,7 +34,7 @@ Mappers are credited in their respective BSP's.
 | Little G | 200x - 200x |
 | Glorfindel | 200x - 200x |
 | Orochi | 200x - 200x |
-| P|Barnum | 200x - 200x |
+| P Barnum | 200x - 200x |
 | Phil Guy | 200x - 200x |
 | ReBoot | 200x - 200x |
 | Sabre | 200x - 200x |
@@ -48,6 +48,7 @@ Mappers are credited in their respective BSP's.
 | Gutsavo Dergal | 200x - 200x |
 | 3dFoin | 200x - 200x |
 | AMX | 200x - 200x |
+| CMD | 200x - 200x |
 
 ### Sound & Music
 | Name | Years |
