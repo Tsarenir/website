@@ -72,7 +72,8 @@ module.exports = {
           children: [
             '/project/intro.md',
             '/project/about.md',
-            '/project/special-thanks.md'
+            '/project/special-thanks.md',
+            '/project/maps.md'
           ]
         },
         {
