@@ -6,7 +6,9 @@ Since this is an open source project, we appreciate any help we can get. Feel fr
 Keep in mind, this project is a different project from Master Sword Continue/Classic and managed by a different team completely. This means that any donations you've might have made did not go to us and went to the original team, but we do plan on keeping the "special thanks" stuff that were given to people as thanks for keeping the original project alive.
 
 ## Core Team
-Listed in ABC order.
+They are also responsible for maintaining the game related stuff and approving changes.
+
+The names are listed in ABC order.
 | Name | Role |
 | ---- | ------------ |
 | BerntA | Core Development |
@@ -14,7 +16,13 @@ Listed in ABC order.
 | Oyster | Mapping & Map Reviewer |
 | Wishbone | Core Development & Project Operations |
 
-As well as thank you to all of our current and future contributors.
+## Developer Team
+The developer team are people who have continuously contributed to the project 
+| Name | Role |
+| ---- | ------------ |
+
+## Contributions
+Thank you to everyone who as contributed to the project.
 
 ## Original Developers
 Over the years of the game/mod there as been a lot of contributions that have made this game possible. [Here](https://msrebirth.com/project/special-thanks.html) is a semi-complete list of those who have made said contributions .
