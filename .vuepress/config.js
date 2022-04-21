@@ -43,9 +43,22 @@ module.exports = {
         text: 'Discord',
         link: 'https://discord.gg/nwJB9EhAN6'
       },
+      {
+        text: 'Dev',
+        link: '/dev/'
+      },
     ],
     sidebar: {
       '/dev/': [
+        {
+          title: 'Contributing',
+          collapsable: false,
+          children: [
+            '/dev/game/intro.md',
+            '/dev/game/game_code.md',
+            '/dev/game/mapping.md'
+          ]
+        },
         {
           title: 'Scripts',
           collapsable: false,
@@ -54,14 +67,6 @@ module.exports = {
             '/dev/scripts/server.md',
             '/dev/scripts/shared.md',
             '/dev/scripts/client.md'
-          ]
-        },
-        {
-          title: 'Game',
-          collapsable: false,
-          children: [
-            '/dev/game/game_code.md',
-            '/dev/game/mapping.md'
           ]
         },
       ],
