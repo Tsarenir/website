@@ -45,7 +45,7 @@ module.exports = {
       },
       {
         text: 'Dev',
-        link: '/dev/'
+        link: '/dev/game/intro.md'
       },
     ],
     sidebar: {
