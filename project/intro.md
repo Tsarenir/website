@@ -1,7 +1,7 @@
 # Intro
 Welcome to Master Sword: Rebirth, this is an open-source continuation/rebirth of the Half-Life mod Master Sword Classic/Continued. The code is registered under the GPL-3.0 license. If you would like to read more about this project please visit our [About](https://msrebirth.com/project/about.html) page.
 
-# Changes
+## Changes
 Our focus right now is optimizing the original code base and fixing the bugs and exploits that plagued MSC. Later down the line we will also balance the entirety of the game working with our community members to do so to hopefully provide a better playing experience.
 
 ## Responsible Disclosure
