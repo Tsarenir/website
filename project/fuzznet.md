@@ -1,5 +1,9 @@
 # FuzzNet (FN)
-FuzzNet is a central database that semi-official and official servers connect too that store a player's character data. Only authorized servers are granted access to the FN. ~~Servers that are connected to the FN will have ``[FN]`` in front of their name.~~
+FuzzNet is a central database that game servers can be granted access to that store a player's character data across all FN servers. This is too allow the game to have more of a MMO feel and allow players to connect to different servers without worry about if they can access their characters or not.
+
+The FN database/server is managed by the MSR staff team.
+
+~~Servers that are connected to the FN will have ``[FN]`` in front of their name.~~
 
 ## Benefits
 Currently there's a list of benefits to playing on a FN server. The benefits may change at any time, in which we'll update this page.
