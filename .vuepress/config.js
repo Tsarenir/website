@@ -80,7 +80,8 @@ module.exports = {
             '/project/servers.md',
             '/project/community.md',
             '/project/special-thanks.md',
-            '/project/maps.md'
+            '/project/maps.md',
+            '/project/fuzznet.md'
           ]
         },
         {
