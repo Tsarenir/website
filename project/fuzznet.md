@@ -3,7 +3,7 @@ FuzzNet is a central database that game servers can be granted access to that st
 
 The FN database/server is managed by the MSR staff team.
 
-~~Servers that are connected to the FN will have ``[FN]`` in front of their name.~~
+Servers that are connected to the FN will have ``[FN]`` in front of their name.
 
 ## Benefits
 Currently there's a list of benefits to playing on a FN server. The benefits may change at any time, in which we'll update this page.

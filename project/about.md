@@ -17,7 +17,7 @@ The names are listed in ABC order.
 | Wishbone | Core Development & Project Operations |
 
 ## Developer Team
-The developer team are people who have continuously contributed to the project 
+The developer team are people who have continuously contributed to the project or have contributed large amounts.
 | Name | Role |
 | ---- | ------------ |
 
