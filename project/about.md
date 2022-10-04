@@ -12,14 +12,9 @@ The names are listed in ABC order.
 | Name | Role |
 | ---- | ------------ |
 | BerntA | Core Development |
+| Dridmar | Map Development |
 | greatguys | Core Scripting |
-| Oyster | Mapping & Map Reviewer |
 | Wishbone | Core Development & Project Operations |
-
-## Developer Team
-The developer team are people who have continuously contributed to the project or have contributed large amounts.
-| Name | Role |
-| ---- | ------------ |
 
 ## Contributions
 Thank you to everyone who as contributed to the project.
