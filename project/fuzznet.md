@@ -8,7 +8,7 @@ Servers that are connected to the FN will have ``[FN]`` in front of their name.
 ## Benefits
 Currently there's a list of benefits to playing on a FN server. The benefits may change at any time, in which we'll update this page.
 * +200% flat XP multiplier, coupled with:
-* 50% XP per additional player beyond the first.
+* +50% XP per additional player beyond the first.
 * +25% gold per additional player in multi-inventory chests, and most mob drops.
 * x4 XP multiplier on Elites (bosses).
 * +100% XP per additional player on Elites.

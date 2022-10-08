@@ -25,5 +25,16 @@ Over the years of the game/mod there as been a lot of contributions that have ma
 ## Community Team
 A thank you to all of our community team members, you can find them on via Discord distinguished in a blue name or under the Mod Team category.
 
+## Founders
+These are the people who originally made this project possible on October 10, 2021.
+
+The names are listed in ABC order.
+| Name |
+| BerntA |
+| 2cwldys |
+| greatguys |
+| oyster |
+| wishbone |
+
 ## License
 The Half-Life SDK code and scripts are licensed under GPL-3.0, which you can find the code [here](https://github.com/MSRevive).
