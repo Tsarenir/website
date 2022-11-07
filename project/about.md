@@ -12,12 +12,20 @@ The names are listed in ABC order.
 | Name | Role |
 | ---- | ------------ |
 | BerntA | Core Development |
+| Dark4557 | Public Relations |
 | Dridmar | Map Development |
 | greatguys | Core Scripting |
 | Wishbone | Core Development & Project Operations |
 
-## Contributions
-Thank you to everyone who as contributed to the project.
+## Developers
+These people have been continuously contributing to this project and have been recognized for it.
+
+The names are listed in ABC order.
+| Name | Role |
+| ---- | ------------ |
+| Dehoth | Mapping |
+| p-trick | FuzzNet |
+| The Oyster Hippopotamus | Mapping |
 
 ## Original Developers
 Over the years of the game/mod there as been a lot of contributions that have made this game possible. [Here](https://msrebirth.com/project/special-thanks.html) is a semi-complete list of those who have made said contributions .
@@ -26,14 +34,15 @@ Over the years of the game/mod there as been a lot of contributions that have ma
 A thank you to all of our community team members, you can find them on via Discord distinguished in a blue name or under the Mod Team category.
 
 ## Founders
-These are the people who originally made this project possible on October 10, 2021.
+These are the people who helped found this project.
 
 The names are listed in ABC order.
 | Name |
 | BerntA |
 | 2cwldys |
+| Dark4557 |
 | greatguys |
-| oyster |
+| The Oyster Hippopotamus |
 | wishbone |
 
 ## License
