@@ -10,7 +10,7 @@ These can also be applied, individually, to a monster when crossing a certain po
 
 They can also be added, globally, to all monsters, via Map Properties->Global Addparams(map_addparams), or to a specific set of monsters, via the ms_monsterspawn/msarea_monsterspawn's Pass AddParams(params)* property.
 
-#### Behavior
+### Behavior
 set_race;<faction_name>
 - Change monster's race for interaction with other mobs.
 - For a complete list of faction interaction see: msc/test_scripts/reference_scripts/races.script
@@ -58,8 +58,7 @@ set_die_nt;<seconds>
 - Monster will removes if it doesn't find a valid target within <secondsafter spawning.
 - Similarly, monster will remove if it doesn't find a target <secondsafter cooling down.
 
-=== VISUAL EFFECTS ===
-
+### Visual Effects
 set_scale;<ratio>
 - Increase/decrease monster size, attempts to alter collision box and reach to match.
 set_scale_nr;<ratio>
@@ -71,10 +70,10 @@ set_scale_nbr;<ratio>
 
 set_model;<model_path>
 - Changes the default monster model.
-- <model_pathshould exclude the models/ prefix, and must end in ".mdl"
+- <model_pathshould exclude the ``models/`` prefix, and must end in ".mdl"
 - Model must be precached or will crash.
 
-set_submodel;<part:submodel*
+set_submodel;<part:submodel*>
 - Changes the submodel indexing on the monster's model.
 - Part and submodel index must be separated by a colon ":".
 - Keep in mind that the HLMV indexes from 1, while the game indexes from 0.
@@ -127,7 +126,7 @@ set_not_musical
 - Tells the combat music system to ignore requests to start combat music from this monster.
 - Useful if the monster cannot be slain and will be targeting perpetually - such as the killer whales in Shendar_East's nightmare sequence.
 
-#### Resistances
+### Resistances
 ext_no_player_damage
 - Take no damage from players.
 
@@ -148,7 +147,7 @@ set_takedmg;<type:ratio>
 - Changes monster's vulnerability to specific element.
 - Element type and ratio must be separated by a colon.
 
-#### Enhancements
+### Enhancements
 speed_x2
 speed_x2_5
 speed_x3
@@ -191,7 +190,7 @@ set_lshield *
 - Grants the monster a lightning field, similar to The Hollow One
 - Adjusts XP
 
-#### Other
+### Other
 ext_no_drops
 - Strips gold and drops from a monster. (Usually)
 
