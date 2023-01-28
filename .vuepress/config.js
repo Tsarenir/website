@@ -59,16 +59,6 @@ module.exports = {
             '/dev/game/mapping.md'
           ]
         },
-        {
-          title: 'Scripts',
-          collapsable: false,
-          children: [
-            '/dev/scripts/intro.md',
-            '/dev/scripts/server.md',
-            '/dev/scripts/shared.md',
-            '/dev/scripts/client.md'
-          ]
-        },
       ],
       '/': [
         {
@@ -77,6 +67,7 @@ module.exports = {
           children: [
             '/project/intro.md',
             '/project/about.md',
+            '/project/contributions.md',
             '/project/community.md',
             '/project/special-thanks.md',
             '/project/maps.md',
