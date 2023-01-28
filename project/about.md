@@ -38,6 +38,7 @@ These are the people who helped found this project.
 
 The names are listed in ABC order.
 | Name |
+| ---- |
 | BerntA |
 | 2cwldys |
 | Dark4557 |
