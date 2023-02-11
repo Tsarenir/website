@@ -4,16 +4,16 @@ Currently there is a build of ReHLDS packaged with the install for MS Rebirth, t
 
 # SteamCMD
 Once you have SteamCMD setup, you'll want to use the command:
-> force_install_dir [directory]
+- force_install_dir [directory]
 before logging in to tell SteamCMD where you want to install MSR. Ordinarily you wouldn't have to login with your Steam account to download files, but MSR being in beta testing requires a full login for now.
 As ReHDLS is currently packaged in, we can skip installing HLDS and go directly to the game files. Run the command:
-> app_update 1961680
+- app_update 1961680
 This is the Steam AppID for MS Rebirth. Should you want to install base HLDS for a different mod, instructions are on the SteamCMD page, but it's not recommended to run base HLDS at this time for Rebirth.
 Run this command if you want to verify the install and overwrite any wonky files if it happens:
-> app_update 1961680 validate
+- app_update 1961680 validate
 
 Since you don't have Steam to auto-update for you, you'll need to log in to SteamCMD and do the above whenever a patch for MSR is deployed. I suggest creating a batch script to save you a few seconds. If you're unfamiliar with the process, simply create a new text file in your SteamCMD directory, drop in this line:
-> steamcmd +force_install_dir [Your MSR install directory] +login [Username] [Password] +app_update 1961680 +quit
+- steamcmd +force_install_dir [Your MSR install directory] +login [Username] [Password] +app_update 1961680 +quit
 Then change the .txt file extension to .bat, and run it.
 I'm lazy, so I create a shortcut to this file in my MSR install folder.
 
