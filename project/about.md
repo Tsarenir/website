@@ -26,6 +26,7 @@ The names are listed in ABC order.
 | Dehoth | Mapping |
 | p-trick | FuzzNet |
 | The Oyster Hippopotamus | Mapping |
+| Irish Fog | Sound Design |
 
 ## Original Developers
 Over the years of the game/mod there as been a lot of contributions that have made this game possible. [Here](https://msrebirth.com/project/special-thanks.html) is a semi-complete list of those who have made said contributions .
