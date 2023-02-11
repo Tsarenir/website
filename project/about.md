@@ -23,10 +23,10 @@ These people have been continuously contributing to this project and have been r
 The names are listed in ABC order.
 | Name | Role |
 | ---- | ------------ |
+| Alden Dwyer | Sound Wizard |
 | Dehoth | Mapping |
 | p-trick | FuzzNet |
 | The Oyster Hippopotamus | Mapping |
-| Irish Fog | Sound Design |
 
 ## Original Developers
 Over the years of the game/mod there as been a lot of contributions that have made this game possible. [Here](https://msrebirth.com/project/special-thanks.html) is a semi-complete list of those who have made said contributions .
